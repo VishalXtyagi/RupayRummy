@@ -83,3 +83,7 @@ footer h5 {
 .docs img {
     height: 150px;
 }
+.icon-box .icon img {
+    max-height: 125px;
+    width: auto;
+}
